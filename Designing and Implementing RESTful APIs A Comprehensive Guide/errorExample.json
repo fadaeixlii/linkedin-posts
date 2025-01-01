@@ -1,0 +1,4 @@
+{
+  "error": "Invalid input",
+  "message": "The 'email' field must be a valid email address."
+}
